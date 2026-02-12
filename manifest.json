@@ -1,0 +1,104 @@
+{
+  "minecraft": {
+    "version": "1.21.11",
+    "modLoaders": [
+      {
+        "id": "fabric-0.18.4",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "SMP Essentials",
+  "version": "1.21.11",
+  "author": "esb678",
+  "files": [
+    {
+      "projectID": 306612,
+      "fileID": 7514389,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 7527469,
+      "required": true
+    },
+    {
+      "projectID": 531351,
+      "fileID": 7367941,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 7417156,
+      "required": true
+    },
+    {
+      "projectID": 327786,
+      "fileID": 7356161,
+      "required": true
+    },
+    {
+      "projectID": 1080570,
+      "fileID": 7494746,
+      "required": true
+    },
+    {
+      "projectID": 1061220,
+      "fileID": 7494725,
+      "required": true
+    },
+    {
+      "projectID": 308769,
+      "fileID": 7340876,
+      "required": true
+    },
+    {
+      "projectID": 263420,
+      "fileID": 7598646,
+      "required": true
+    },
+    {
+      "projectID": 317780,
+      "fileID": 7598539,
+      "required": true
+    },
+    {
+      "projectID": 360438,
+      "fileID": 7587007,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 7517406,
+      "required": true
+    },
+    {
+      "projectID": 568563,
+      "fileID": 7392425,
+      "required": true
+    },
+    {
+      "projectID": 844662,
+      "fileID": 7555839,
+      "required": true
+    },
+    {
+      "projectID": 453763,
+      "fileID": 7352023,
+      "required": true
+    },
+    {
+      "projectID": 813608,
+      "fileID": 7292372,
+      "required": true
+    },
+    {
+      "projectID": 499464,
+      "fileID": 7591133,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
